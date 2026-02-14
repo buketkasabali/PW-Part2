@@ -17,7 +17,7 @@ Install dependencies:
 
 
 Install Playwright browsers:
-npx playwright install
+* npx playwright install
 
 ## 🧪 Run the Tests
 
